@@ -256,6 +256,10 @@
         "source": "F:\\Programing\\Android_Projects\\Ex2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
         "merged": "F:\\Programing\\Android_Projects\\Ex2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "F:\\Programing\\Android_Projects\\Ex2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
