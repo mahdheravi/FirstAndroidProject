@@ -8,6 +8,10 @@
         "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_solid_black.xml",
+        "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\src\\main\\res\\drawable\\rounded_solid_black.xml"
+    },
+    {
         "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
@@ -28,12 +32,12 @@
         "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "F:\\Programing\\Android_Projects\\Ex2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "F:\\Programing\\Android_Projects\\Ex2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\Programing\\Android_Projects\\Ex2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\Programing\\Android_Projects\\Ex2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
@@ -176,8 +180,16 @@
         "source": "F:\\Programing\\Android_Projects\\Ex2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+        "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toshl_6_signup.png",
+        "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\src\\main\\res\\drawable\\toshl_6_signup.png"
+    },
+    {
         "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_bold_corner.xml",
+        "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\src\\main\\res\\drawable\\rounded_bold_corner.xml"
     },
     {
         "merged": "F:\\Programing\\Android_Projects\\Ex2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
@@ -258,6 +270,10 @@
     {
         "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Programing\\Android_Projects\\Exercise2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_solid_red.xml",
+        "source": "F:\\Programing\\Android_Projects\\Exercise2\\app\\src\\main\\res\\drawable\\btn_solid_red.xml"
     },
     {
         "merged": "F:\\Programing\\Android_Projects\\Ex2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
