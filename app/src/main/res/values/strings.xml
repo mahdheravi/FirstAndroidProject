@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex2</string>
+    <string name="email">Email</string>
+    <string name="name">Full name</string>
+    <string name="pass_hint">Think of something sneaky</string>
+    <string name="signup">Sign up</string>
+    <string name="agree1">By clicking next you agree with the  </string>
+    <string name="agree2">terms of service.</string>
+    <string name="pp">By signing in ,I accept paths Term of Service and Privacy Policy</string>
+    <string name="pass">Password</string>
+</resources>
